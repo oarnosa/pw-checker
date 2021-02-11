@@ -1,4 +1,4 @@
-# pw-checker
+## pw-checker
 Check your passwords to see if it has been compromised or involved in any data breaches
 
 ## how to use
@@ -10,6 +10,5 @@ python3 checkmypass.py PASSWORD1 PASSWORD2
 ```
 Script will return the password and how many times it has been involved in a data breach.
 
-## info
-
+## implementation
 This script utilizes SHA1 encoding and validates the encrypted password with the pwnedpasswords api to verify the amount of times your password has been pwned.
