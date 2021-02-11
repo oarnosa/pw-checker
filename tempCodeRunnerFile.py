@@ -1,1 +1,0 @@
-pwned_api_check('123')
