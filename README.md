@@ -1,4 +1,4 @@
-## pw-checker
+# Password Checker
 Check your passwords to see if it has been compromised or involved in any data breaches
 
 ## how to use
