@@ -11,4 +11,4 @@ python3 checkmypass.py PASSWORD1 PASSWORD2
 Script will return the password and how many times it has been involved in a data breach.
 
 ## Implementation
-This script utilizes SHA1 encoding and validates the encrypted password with the pwnedpasswords api to verify the amount of times your password has been pwned.
+This script utilizes SHA1 encoding and validates the encrypted password with the pwnedpasswords api to verify the amount of times your password has been compromised.
